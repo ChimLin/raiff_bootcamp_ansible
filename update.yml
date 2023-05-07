@@ -1,0 +1,9 @@
+---
+# This Playbook would update os based on ununtu
+
+- hosts: localhost
+  gather_facts: yes
+  become: yes
+
+  roles:
+  - role: update_os
