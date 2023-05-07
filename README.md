@@ -1,9 +1,5 @@
 # raiff_bootcamp_ansible
 
-<div align="center">
-  <center><h1>Ansible</h1></center>
-  <center><img src="../logo/Ansible_logo.png" align="center" width="350" alt="Project icon"></center>
-</div>
 
 ---
 ## Тестовое задание: Автоматизированное обновление операционной системы c помощью Ansible
